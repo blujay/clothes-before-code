@@ -69,7 +69,8 @@ public class TextController : MonoBehaviour {
 	void bedroom_0 (){
 		text.text = "It’s Sunday 11am and you are in bed. You have been learning to code Unity games in C#. " +
 					"You can hear the hum and thump of a washing machine in it’s last spin cycle." +
-					"The drying rack is full of clothes.  \n\nYou'll have to take care of the laundry before you can carry on coding any more games.\n\n" +
+					"The drying rack is full of clothes.  \n\nYou'll have to take care of the laundry" +
+					"before you can carry on coding any more games.\n\n" +
 
 					"Press D to view drying rack, L to go to view laundry basket, W to go to washing machine";
 		
